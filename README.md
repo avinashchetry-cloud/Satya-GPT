@@ -1,4 +1,4 @@
-#SatyaGPT - AI Powered Fake News Detection
+# SatyaGPT - AI Powered Fake News Detection
 
 ## Overview
 
